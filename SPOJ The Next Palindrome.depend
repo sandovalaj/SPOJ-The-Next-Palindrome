@@ -1,7 +1,5 @@
 # depslib dependency file v1.0
-1608440502 source:c:\users\anne\desktop\code\00 practice\spoj the next palindrome\main.c
+1608538589 source:c:\users\anne\desktop\code\00 practice\spoj the next palindrome\main.c
 	<stdio.h>
 	<stdlib.h>
-	<limits.h>
-	<math.h>
 
